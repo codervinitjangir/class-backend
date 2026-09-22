@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Wireless Noise Cancelling Headphones",
+    "description": "Premium over-ear headphones with deep bass and active noise cancellation.",
+    "price": 4999,
+    "category": "Electronics",
+    "brand": "Sony",
+    "stock": 25,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Smart Watch Pro",
+    "description": "Track fitness, calls, and notifications with a sleek AMOLED display.",
+    "price": 6999,
+    "category": "Electronics",
+    "brand": "Apple",
+    "stock": 18,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Classic Cotton T-Shirt",
+    "description": "Comfortable everyday tee made from soft breathable cotton fabric.",
+    "price": 999,
+    "category": "Fashion",
+    "brand": "Levi's",
+    "stock": 40,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes designed for daily workouts and comfort.",
+    "price": 2499,
+    "category": "Footwear",
+    "brand": "Nike",
+    "stock": 32,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "4K Ultra HD Smart TV",
+    "description": "Large-screen TV with vibrant picture quality and smart app support.",
+    "price": 38999,
+    "category": "Appliances",
+    "brand": "Samsung",
+    "stock": 12,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Premium Coffee Maker",
+    "description": "Brew rich and aromatic coffee with programmable temperature control.",
+    "price": 4599,
+    "category": "Home",
+    "brand": "Philips",
+    "stock": 21,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Laptop 14-inch",
+    "description": "Thin and portable laptop built for work, study, and entertainment.",
+    "price": 54999,
+    "category": "Electronics",
+    "brand": "Dell",
+    "stock": 15,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Backpack Travel Pack",
+    "description": "Spacious and durable backpack with multiple compartments for travel.",
+    "price": 1899,
+    "category": "Accessories",
+    "brand": "North Face",
+    "stock": 28,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80"
+  }
+]
