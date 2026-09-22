@@ -11,6 +11,11 @@ app.get("/", (req, res) => {
     res.send("Hello");
 });
 
+app.get("/products", async (req, res) => {
+    const products = await Product.find();
+    res.status(200).send(products);
+});
+
 app.post("/products", async (req, res) => {
     const data = req.body;
     const newProduct = new Product(data);
